@@ -1,0 +1,64 @@
+id_stacji;stacja;street;nr;postcode;town;phone;email
+12295;Bia³ystok;Cio³kowskiego;2/3;15-245;Bia³ystok;(85) 74-86-155;shm.bialystok@imgw.pl
+12600;Bielsko Bia³a;Cieszyñska;321;43-303;Bielsko-Bia³a;(33) 81-25-165;shm.bielskobiala@imgw.pl
+12235;Chojnice;Meteorologiczna;1;89-600;Chojnice;(52) 39-75-050;shm.chojnice@imgw.pl
+12550;Czêstochowa;Oleñki;32;42-200;Czêstochowa;(34) 32-42-930;shm.czestochowa@imgw.pl
+12556;DŸwirzyno;;;;;;
+12160;Elbl¹g;Szkolna;11;82-316;Milejewo;(55) 23-35-643;shm.milejewo@imgw.pl
+12155;Gdañsk;Œwibnieñska;40;80-690;Gdañsk;(58) 30-80-512;shm.swibno@imgw.pl
+12300;Gorzów;Sybiraków;10;66-400;Gorzów Wielkopolski;(95) 73-23-264;shm.gorzowwlkp@imgw.pl
+12135;Hel;Leœna;13;84-150;Hel;(58) 67-50-411;shm.hel@imgw.pl
+12500;Jelenia Góra;Lotnictwa;3;58-500;Jelenia Góra;(75) 75-26-854;shm.jeleniagora@imgw.pl
+12435;Kalisz;Ró¿y wiatrów;16;62-800;Kalisz;(62) 76-02-150;shm.kalisz@imgw.pl
+12650;Kasprowy Wierch;Sienkiewicza;26c;34-500;Zakopane;(18) 20-19-111;wom.kasprowy@imgw.pl
+12560;Katowice;Lotnisko;1;40-271;Katowice;(32) 25-61-213;shm.katowice@imgw.pl
+12185;Kêtrzyn;Bydgoska;31;11-400;Kêtrzyn;(89) 75-22-233;shm.ketrzyn@imgw.pl
+12570;Kielce;Suków;19 b;26-021;Daleszyce;(41) 30-73-433;shm.kielce@imgw.pl
+12520;K³odzko;Dusznicka;9;57-300;K³odzko;(74) 86-72-822;shm.klodzko@imgw.pl
+12345;Ko³o;Cegielniana;8;62-600;Ko³o;(63) 27-20-877;shm.kolo@imgw.pl
+12100;Ko³obrzeg;Kasprowicza;35;78-100;Ko³obrzeg;(94) 35-23-216;shm.kolobrzeg@imgw.pl
+12105;Koszalin;Morska;101;75-235;Koszalin;(94) 34-32-645;shm.koszalin@imgw.pl
+12488;Kozienice;Zwoleñska;5;26-900;Kozienice;(48) 61-43-079;shm.kozienice@imgw.pl
+12566;Kraków;Kpt.Medweckiego;1;32-083;Kraków;(12) 28-55-072;lsm.balice@imgw.pl
+12670;Krosno;Okrzei;99;38-400;Krosno;(13) 43-66-363;shm.krosno@imgw.pl
+12415;Legnica;Bartoszowska;2;59-220;Legnica;(76) 85-50-927;shm.legnica@imgw.pl
+12690;Lesko;Widokowa;36;38-600;Lesko;(13) 46-96-576;shm.lesko@imgw.pl
+12418;Leszno;Kosmonautów;8;64-100;Leszno;(65) 52-03-820;shm.leszno@imgw.pl
+12125;Lêbork;Polna;1;84-300;Lêbork;;
+12495;Lublin;Motycz;1;21-030;Motycz;(81) 50-30-773;shm.lublin@imgw.pl
+12120;£eba;R¹bka;1a;84-360;£eba;(59) 86-61-313;shm.leba@imgw.pl
+12465;£ódŸ;Gen. Maczka;35;94-328;£ódŸ;(42) 68-75-860;rshm.lodz@imgw.pl
+12280;Miko³ajki;Kajki;128;11-730;Miko³ajki;(87) 42-16-273;shm.mikolajki@imgw.pl
+12270;M³awa;Szreñska;14;06-500;M³awa;(23) 65-43-717;shm.mlawa@imgw.pl
+12660;Nowy S¹cz;Pijarska;30;33-300;Nowy S¹cz;(18) 44-20-707;shm.nowysacz@imgw.pl
+12272;Olsztyn;Sielska;22 a;10-802;Olsztyn;(89) 52-72-110;shm.olsztyn@imgw.pl
+12530;Opole;Przeskok;4;45-029;Opole;(77) 45-63-889;shm.opole@imgw.pl
+12285;Ostro³êka;Kochanowskiego;;07-415;Olszewo-Borki;;
+12230;Pi³a;Miedziana;24;64-920;Pi³a;(67) 21-23-222;shm.pila@imgw.pl
+12001;Platforma;;;;;;
+12360;P³ock;Trzepowo Nowe;56;09-402;P³ock;(24) 26-23-373;shm.plock@imgw.pl
+12330;Poznañ;Bukowska;285;60-189;Poznañ;(61) 86-81-791;lsm.lawica@imgw.pl
+12695;Przemyœl;Chrobrego;52;37-700;Przemyœl;;
+12540;Racibórz;Broniewskiego;2;47-400;Racibórz;(32) 41-54-622;shm.raciborz@imgw.pl
+12210;Resko;Krakowska;16;72-315;Resko;;
+12580;Rzeszów;Jasionka;;36-002;Jasionka-Lotnisko;(17) 85-97-398;lsm.rzeszow@imgw.pl
+12585;Sandomierz;O¿arowska;65;27-600;Sandomierz;(15) 83-27-421;shm.sandomierz@imgw.pl
+12385;Siedlce;Piaskowa;284;08-103;Siedlce;(25) 63-22-420;shm.siedlce@imgw.pl
+12310;S³ubice;Pó³nocna;46;69-100;S³ubice;(95) 75-82-585;shm.slubice@imgw.pl
+12469;Sulejów;Polna;10;97-330;Sulejów;(44) 61-62-544;shm.sulejow@imgw.pl
+12195;Suwa³ki;Pu³askiego;125;16-400;Suwa³ki;(87) 56-71-424;shm.suwalki@imgw.pl
+12205;Szczecin;Przestrzenna;10;70-80;Szczecin;(91) 46-13-232;shm.szczecin@imgw.pl
+12215;Szczecinek;Marcelin;;78-422;Marcelin;;
+12510;Œnie¿ka;Œnie¿ki;20;58-540;Karpacz;(75) 75-26-851;wom.sniezka@imgw.pl
+12200;Œwinoujœcie;¯eromskiego;27;76-200;Œwinoujœcie;(91) 32-12-862;shm.swinoujscie@imgw.pl
+12575;Tarnów;Piaskowa;56;33-100;Tarnów;(14) 62-13-390;shm.tarnow@imgw.pl
+12399;Terespol;Polna;42;21-550;Terespol;(83) 37-52-137;shm.terespol@imgw.pl
+12250;Toruñ;Storczykowa;124;87-100;Toruñ;(56) 65-29-560;shm.torun@imgw.pl
+12115;Ustka;Marynarki Polskiej;1;76-270;Ustka;(59) 81-44-696;shm.ustka@imgw.pl
+12375;Warszawa;Wie¿owa;8;02-147;Warszawa;(22) 65-01-591;lbmokecie@imgw.pl
+12455;Wieluñ;Graniczna;45;98-300;Wieluñ;(43) 84-38-755;shm.wielun@imgw.pl
+12497;W³odawa;Korolowska;77;22-200;W³odawa;(82) 57-21-287;shm.wlodawa@imgw.pl
+12424;Wroc³aw;Skar¿yñskiego;36;54-530;Wroc³aw;(71) 37-37-705;lbmstrachowice@imgw.pl
+12625;Zakopane;Sienkiewicza;26 c;34-500;Zakopane;(18) 20-63-019;shm.zakopane@imgw.pl
+12595;Zamoœæ;Mokre;115;22-400;Zamoœæ;;ass.zamosc@imgw.pl
+12400;Zielona Góra;Struga;1a;65-331;Zielona Góra;(68) 32-08-313;shm.zielonagora@imgw.pl
